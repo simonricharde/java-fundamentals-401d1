@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basiclibrary.LibraryTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-11-22T03:29:07" hostname="SEA-1800026498" time="0.031">
+  <properties/>
+  <testcase name="testRollMethod" classname="basiclibrary.LibraryTest" time="0.015"/>
+  <testcase name="testGetLowestAverageArrayMethod" classname="basiclibrary.LibraryTest" time="0.012"/>
+  <testcase name="testContainsDuplicatesMethod" classname="basiclibrary.LibraryTest" time="0.001"/>
+  <testcase name="testCalculateAverageMethod" classname="basiclibrary.LibraryTest" time="0.001"/>
+  <system-out><![CDATA[Rolled Values: 3
+Rolled Values: 1
+Rolled Values: 3
+Rolled Values: 1
+Rolled Values: 3
+Rolled Values: 4
+Rolled Values: 2
+Rolled Values: 2
+The Average of the given Array is : 63.0
+The Average of the given Array is : 63.57143
+The Average of the given Array is : 57.0
+The Average of the given Array is : 57.42857
+55
+54
+60
+53
+59
+57
+61
+This Array has duplicate values
+This Array has No duplicate values
+The Average of the given Array is : 17.5
+The Average of the given Array is : 0.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
